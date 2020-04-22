@@ -1,0 +1,14 @@
+p  {
+  display: flex;
+  background-color: olive;
+  column-gap: 10px;
+  justify-content: space-around;
+  margin: 10px;
+  outline: gold solid;
+  outline-width: 5px;
+  resize: vertical;
+  box-shadow: 0 10px 0 #3C93D5;
+  flex: auto;
+  page-break-before: always;
+  overflow: auto;
+}
